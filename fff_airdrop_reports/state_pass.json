@@ -1,0 +1,172 @@
+{
+  "files": {
+    "biz.csv": {
+      "status": "completed",
+      "processedCount": 558,
+      "totalGasUsed": "18099072",
+      "txs": [
+        {
+          "hash": "0x562a62716e544e337f163c91a5bf03a99eb5bf12c85811288e3fddcb78ab9a6c",
+          "start": 0,
+          "count": 200,
+          "gasUsed": "6505978",
+          "timestamp": "2025-12-02T16:59:10.116Z"
+        },
+        {
+          "hash": "0x123ec628f91f3ee2e1d2c42a73adbc1b4c1c9724d2dd517701618f5774529c68",
+          "start": 200,
+          "count": 200,
+          "gasUsed": "6471766",
+          "timestamp": "2025-12-02T16:59:16.487Z"
+        },
+        {
+          "hash": "0x59ba46ecf8ce58f70c740a7c5b8878ed80a0eaa1d9bbdd92e2ccc494d306648e",
+          "start": 400,
+          "count": 158,
+          "gasUsed": "5121328",
+          "timestamp": "2025-12-02T16:59:22.231Z"
+        }
+      ]
+    },
+    "eco.csv": {
+      "status": "completed",
+      "processedCount": 3052,
+      "totalGasUsed": "98308640",
+      "txs": [
+        {
+          "hash": "0xc0169ee253368848553f4b1107d63e8c5198c0f3503d0ab29dfb2fec86438538",
+          "start": 0,
+          "count": 200,
+          "gasUsed": "6488818",
+          "timestamp": "2025-12-02T16:59:27.980Z"
+        },
+        {
+          "hash": "0x8a05e50b45200a5f12475536f5e06bd1689c486d9e6facf537115c3a5a5a0f9f",
+          "start": 200,
+          "count": 200,
+          "gasUsed": "6471778",
+          "timestamp": "2025-12-02T16:59:34.249Z"
+        },
+        {
+          "hash": "0xb0e3775e66061812506c768e36f3de3bc3920d5846d05ab7c4dad594aa810760",
+          "start": 400,
+          "count": 200,
+          "gasUsed": "6471466",
+          "timestamp": "2025-12-02T16:59:40.302Z"
+        },
+        {
+          "hash": "0x770d0c50fa4111ddea67eb3b1afe79c900ae1d8c52923de3490b430fc053ceb9",
+          "start": 600,
+          "count": 200,
+          "gasUsed": "6427643",
+          "timestamp": "2025-12-02T16:59:46.120Z"
+        },
+        {
+          "hash": "0x0a88153130ee1353fe167946fe83d9f785ca0b5b1476b99ae6c013f4b8764287",
+          "start": 800,
+          "count": 200,
+          "gasUsed": "6427475",
+          "timestamp": "2025-12-02T16:59:52.406Z"
+        },
+        {
+          "hash": "0x453adecc5d8eb148be3bb8e7ee432d31f9dc414cde220dc88258efc4d99f3e83",
+          "start": 1000,
+          "count": 200,
+          "gasUsed": "6427643",
+          "timestamp": "2025-12-02T16:59:58.099Z"
+        },
+        {
+          "hash": "0x7881d133d960e3507d0c651fe5dd637b6fc440ab10433d2a637565e518138688",
+          "start": 1200,
+          "count": 200,
+          "gasUsed": "6427583",
+          "timestamp": "2025-12-02T17:00:04.352Z"
+        },
+        {
+          "hash": "0xa581515488022a03b3968a6801ddeadc475735f7aff3dd9372f515badffdb28d",
+          "start": 1400,
+          "count": 200,
+          "gasUsed": "6427595",
+          "timestamp": "2025-12-02T17:00:10.010Z"
+        },
+        {
+          "hash": "0x6c21c505b5d92239619abb462583e2c3ca2abd3bb20829e89e6f848936fe6976",
+          "start": 1600,
+          "count": 200,
+          "gasUsed": "6427583",
+          "timestamp": "2025-12-02T17:00:16.379Z"
+        },
+        {
+          "hash": "0x175df728e9ec4527a6ceb13da60f54e4a833a6a1c77de4aecb54a35bf7ce1eed",
+          "start": 1800,
+          "count": 200,
+          "gasUsed": "6427679",
+          "timestamp": "2025-12-02T17:00:21.935Z"
+        },
+        {
+          "hash": "0x5f35455d3097243e261d292265449a2319d4d3a00dea2a0b613e7b8c7faa399d",
+          "start": 2000,
+          "count": 200,
+          "gasUsed": "6427523",
+          "timestamp": "2025-12-02T17:00:28.218Z"
+        },
+        {
+          "hash": "0x31e4594682ecd12e75e0475667909f3fdacdbbab1a926e31c7199c7f44bf4ba3",
+          "start": 2200,
+          "count": 200,
+          "gasUsed": "6427595",
+          "timestamp": "2025-12-02T17:00:33.749Z"
+        },
+        {
+          "hash": "0x73ee0b4053b6770edf0549c214b51a9508153313a2667b1903a8f4b8fec0f00f",
+          "start": 2400,
+          "count": 200,
+          "gasUsed": "6427547",
+          "timestamp": "2025-12-02T17:00:40.320Z"
+        },
+        {
+          "hash": "0x8b95fd19dbd4a78e483733f8535116f1bb209496668ce094307d1ed94ecba35d",
+          "start": 2600,
+          "count": 200,
+          "gasUsed": "6427511",
+          "timestamp": "2025-12-02T17:00:46.324Z"
+        },
+        {
+          "hash": "0xcc19dd6725735dde09dc70f4b1a234944508888aba7f39644afd2a5e66a7a250",
+          "start": 2800,
+          "count": 200,
+          "gasUsed": "6471778",
+          "timestamp": "2025-12-02T17:00:52.242Z"
+        },
+        {
+          "hash": "0xdb2091016ea146ffc8f33adfbee6d9a5f9d99c3f6562f43a37c827e28312689d",
+          "start": 3000,
+          "count": 52,
+          "gasUsed": "1701423",
+          "timestamp": "2025-12-02T17:00:57.949Z"
+        }
+      ]
+    },
+    "first.csv": {
+      "status": "completed",
+      "processedCount": 230,
+      "totalGasUsed": "7487813",
+      "txs": [
+        {
+          "hash": "0x4472afa1223566189986fb6fb6b1e6a4827eb014eb3f251cc07e3ab51e09217a",
+          "start": 0,
+          "count": 200,
+          "gasUsed": "6488866",
+          "timestamp": "2025-12-02T17:01:04.087Z"
+        },
+        {
+          "hash": "0x1e8e428bbe90192949585b183728edf2e460094490e1423949c3d16e8d1b7a08",
+          "start": 200,
+          "count": 30,
+          "gasUsed": "998947",
+          "timestamp": "2025-12-02T17:01:07.765Z"
+        }
+      ]
+    }
+  }
+}
